@@ -964,7 +964,7 @@
     <header>
         <div class="container">
             <div class="header-top">
-                <a href="#" class="logo">
+                <a href="https://i.ibb.co.com/0yVPc2kX/1756539704581.jpg" class="logo">
                     <div class="logo-img">V</div>
                     <div class="logo-text">VONDO</div>
                 </a>
@@ -1005,7 +1005,7 @@
                     </div>
                     <a href="#" class="cart-icon">
                         <i class="fas fa-shopping-cart"></i>
-                        <span class="cart-count">3</span>
+                        <span class="cart-count">1</span>
                     </a>
                 </div>
             </div>
@@ -1016,7 +1016,7 @@
     <section class="hero">
         <div class="container">
             <div class="hero-content">
-                <h1>Summer Sale: Up To 50% Off</h1>
+                <h1>VONDO Sale: Up To 50% Off</h1>
                 <p>Discover the latest trends in fashion, electronics, and home goods with our exclusive summer collection. Limited time offer!</p>
                 <div class="hero-buttons">
                     <a href="#" class="btn">Shop Now</a>
@@ -1105,9 +1105,9 @@
                 <!-- Product 1 -->
                 <div class="product-card">
                     <span class="product-badge">Sale</span>
-                    <img src="https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=698&q=80" alt="Sneakers" class="product-image">
+                    <img src="https://i.ibb.co.com/KxkMrhkJ/IMG-20250720-WA0067.jpg" alt="Sneakers" class="product-image">
                     <div class="product-content">
-                        <h3 class="product-title">Premium Running Sneakers</h3>
+                        <h3 class="product-title">Bangladesh Flag</h3>
                         <div class="product-price">
                             <span class="current-price">$89.99</span>
                             <span class="original-price">$129.99</span>
@@ -1133,11 +1133,13 @@
                 <!-- Product 2 -->
                 <div class="product-card">
                     <span class="product-badge">New</span>
-                    <img src="https://images.unsplash.com/photo-1585386959984-a4155224a1ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80" alt="Watch" class="product-image">
+                    <img src="https://i.ibb.co.com/BKBKMmmy/20240917-121925.jpg" alt="Watch" class="product-image">
                     <div class="product-content">
-                        <h3 class="product-title">Luxury Chronograph Watch</h3>
+                        <h3 class="product-title">Luxury T-Shirt</h3>
                         <div class="product-price">
-                            <span class="current-price">$159.99</span>
+                            <span class="current-price">$160.99</span>
+                            <span class="original-price">$229.99</span>
+                            <span class="discount">30% off</span>
                         </div>
                         <div class="product-rating">
                             <div class="stars">
@@ -1151,16 +1153,16 @@
                         </div>
                         <div class="product-actions">
                             <button class="add-to-cart"><i class="fas fa-shopping-cart"></i> Add to Cart</button>
-                            <button class="buy-now" data-product="Luxury Chronograph Watch" data-price="159.99"><i class="fas fa-bolt"></i> Buy Now</button>
+                            <button class="buy-now" data-product="Luxury Chronograph Watch" data-price="160.99"><i class="fas fa-bolt"></i> Buy Now</button>
                         </div>
                     </div>
                 </div>
 
                 <!-- Product 3 -->
                 <div class="product-card">
-                    <img src="https://images.unsplash.com/photo-1588186939549-c087e0796efd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80" alt="Headphones" class="product-image">
+                    <img src="https://i.ibb.co.com/chDr90hW/PXL-20250630-162949271-PORTRAIT.jpg" alt="Headphones" class="product-image">
                     <div class="product-content">
-                        <h3 class="product-title">Wireless Bluetooth Headphones</h3>
+                        <h3 class="product-title">NSTU Logo T-Shirt</h3>
                         <div class="product-price">
                             <span class="current-price">$129.99</span>
                         </div>
