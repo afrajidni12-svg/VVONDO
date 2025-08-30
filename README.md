@@ -967,7 +967,7 @@
                 <a href="https://i.ibb.co.com/0yVPc2kX/1756539704581.jpg" class="logo">
                     <div class="logo-img">V</div>
                     <div class="logo-text">VONDO</div>
-                </a>
+               </a>
                 
                 <div class="header-actions">
                     <a href="#" class="header-action-item">
